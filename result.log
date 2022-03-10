@@ -1,0 +1,59 @@
+2022-01-30 16:02:45.095  INFO 4392 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Starting BsbJd2Group5Application using Java 11.0.12 on DESKTOP-2OV4MG2 with PID 4392 (D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5\target\classes started by DELL in D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5)
+2022-01-30 16:02:45.096  INFO 4392 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : No active profile set, falling back to default profiles: default
+2022-01-30 16:02:45.135  INFO 4392 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-30 16:02:45.885  INFO 4392 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-01-30 16:02:45.914  INFO 4392 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Started BsbJd2Group5Application in 1.136 seconds (JVM running for 3.5)
+2022-01-30 16:02:46.012 ERROR 4392 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line
+2022-01-30 16:02:46.013 ERROR 4392 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line
+2022-01-30 16:02:46.014 ERROR 4392 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line
+2022-01-30 16:02:46.015 ERROR 4392 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line
+2022-01-30 16:02:46.016  INFO 4392 --- [restartedMain] c.g.r.a.bsbjd2group5.runners.TaskRunner  : 239
+2022-01-30 16:02:46.016  INFO 4392 --- [restartedMain] c.g.r.a.bsbjd2group5.runners.TaskRunner  : 239
+2022-01-30 16:21:43.284  INFO 10996 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Starting BsbJd2Group5Application using Java 11.0.12 on DESKTOP-2OV4MG2 with PID 10996 (D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5\target\classes started by DELL in D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5)
+2022-01-30 16:21:43.285  INFO 10996 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : No active profile set, falling back to default profiles: default
+2022-01-30 16:21:43.323  INFO 10996 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-30 16:21:43.853  INFO 10996 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-01-30 16:21:43.872  INFO 10996 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Started BsbJd2Group5Application in 0.899 seconds (JVM running for 1.851)
+2022-01-30 16:21:43.876 ERROR 10996 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : the number of elements in the string is greater than 2
+2022-01-30 16:21:43.876  INFO 10996 --- [restartedMain] c.g.r.a.bsbjd2group5.runners.TaskRunner  : 3
+2022-01-30 16:25:06.520  INFO 12724 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Starting BsbJd2Group5Application using Java 11.0.12 on DESKTOP-2OV4MG2 with PID 12724 (D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5\target\classes started by DELL in D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5)
+2022-01-30 16:25:06.521  INFO 12724 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : No active profile set, falling back to default profiles: default
+2022-01-30 16:25:06.555  INFO 12724 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-30 16:25:07.013  INFO 12724 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-01-30 16:25:07.036  INFO 12724 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Started BsbJd2Group5Application in 0.824 seconds (JVM running for 1.76)
+2022-01-30 16:25:07.040  INFO 12724 --- [restartedMain] c.g.r.a.bsbjd2group5.runners.TaskRunner  : 9
+2022-01-30 16:27:23.680  INFO 11684 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Starting BsbJd2Group5Application using Java 11.0.12 on DESKTOP-2OV4MG2 with PID 11684 (D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5\target\classes started by DELL in D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5)
+2022-01-30 16:27:23.681  INFO 11684 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : No active profile set, falling back to default profiles: default
+2022-01-30 16:27:23.724  INFO 11684 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-30 16:27:24.216  INFO 11684 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-01-30 16:27:24.233  INFO 11684 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Started BsbJd2Group5Application in 0.87 seconds (JVM running for 1.768)
+2022-01-30 16:27:24.238 ERROR 11684 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line0
+2022-01-30 16:27:24.239 ERROR 11684 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line0
+2022-01-30 16:27:24.239 ERROR 11684 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line3
+2022-01-30 16:27:24.239 ERROR 11684 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line0
+2022-01-30 16:27:24.239 ERROR 11684 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line0
+2022-01-30 16:27:24.239  INFO 11684 --- [restartedMain] c.g.r.a.bsbjd2group5.runners.TaskRunner  : 239
+2022-01-30 16:28:02.285  INFO 3676 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Starting BsbJd2Group5Application using Java 11.0.12 on DESKTOP-2OV4MG2 with PID 3676 (D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5\target\classes started by DELL in D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5)
+2022-01-30 16:28:02.286  INFO 3676 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : No active profile set, falling back to default profiles: default
+2022-01-30 16:28:02.336  INFO 3676 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-30 16:28:02.808  INFO 3676 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-01-30 16:28:02.824  INFO 3676 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Started BsbJd2Group5Application in 0.907 seconds (JVM running for 1.872)
+2022-01-30 16:28:02.829 ERROR 3676 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line 0
+2022-01-30 16:28:02.829 ERROR 3676 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line 0
+2022-01-30 16:28:02.829 ERROR 3676 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line 3
+2022-01-30 16:28:02.829 ERROR 3676 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line 0
+2022-01-30 16:28:02.830 ERROR 3676 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line 0
+2022-01-30 16:28:02.830  INFO 3676 --- [restartedMain] c.g.r.a.bsbjd2group5.runners.TaskRunner  : 239
+2022-01-30 16:35:13.147  INFO 16892 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Starting BsbJd2Group5Application using Java 11.0.12 on DESKTOP-2OV4MG2 with PID 16892 (D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5\target\classes started by DELL in D:\Evgeniy\Java BSB BANK\JD2\homework10_11\bsb-jd2-group5)
+2022-01-30 16:35:13.167  INFO 16892 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : No active profile set, falling back to default profiles: default
+2022-01-30 16:35:13.203  INFO 16892 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-30 16:35:13.649  INFO 16892 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-01-30 16:35:13.666  INFO 16892 --- [restartedMain] c.g.r.a.b.BsbJd2Group5Application        : Started BsbJd2Group5Application in 0.854 seconds (JVM running for 1.747)
+2022-01-30 16:35:13.670 ERROR 16892 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line 0
+2022-01-30 16:35:13.670 ERROR 16892 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : the number of elements in the string is greater than 2
+2022-01-30 16:35:13.671 ERROR 16892 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : the number of elements in the string is greater than 2
+2022-01-30 16:35:13.671 ERROR 16892 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : the number of elements in the string is greater than 2
+2022-01-30 16:35:13.671 ERROR 16892 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : the number of elements in the string is greater than 2
+2022-01-30 16:35:13.671 ERROR 16892 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line 0
+2022-01-30 16:35:13.671 ERROR 16892 --- [restartedMain] c.g.r.a.b.s.i.CalculateSumServiceImpl    : Parsing exception: there is not number in line 0
+2022-01-30 16:35:13.671  INFO 16892 --- [restartedMain] c.g.r.a.bsbjd2group5.runners.TaskRunner  : 212
